@@ -8,6 +8,5 @@
     "classPath": "src/",
     "releasenote": "",
     "contributors": ["fourst4r"],
-    "dependencies": {},
-    "main": "tests.Run"
+    "dependencies": {}
   }
