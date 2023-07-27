@@ -1,6 +1,5 @@
 package tests;
 
-@:dce
 @:build(tests.Builder.buildMain())
 class Main {
     static function main() {
